@@ -27,3 +27,7 @@ VeryLargeJavaService/
 VeryLargeJavaService/.mvn/wrapper/maven-wrapper.properties
 VeryLargeJavaService/.mvn/wrapper/MavenWrapperDownloader.java
 VeryLargeDataStore/
+/target/
+/.classpath
+/.project
+/bin/
